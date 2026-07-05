@@ -239,3 +239,5 @@ This projects is develped by 7 team members.
 - HTML5, CSS3, JavaScript
 - scikit-learn
 - PIL, NumPy, Matplotlib
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+                                                  If this project helped you consider giving it a star!
