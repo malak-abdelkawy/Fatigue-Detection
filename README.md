@@ -240,4 +240,4 @@ This projects is develped by 7 team members.
 - scikit-learn
 - PIL, NumPy, Matplotlib
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
-                                                  If this project helped you consider giving it a star!
+                                             *If this project helped you consider giving it a star!*
